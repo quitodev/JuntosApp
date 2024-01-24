@@ -38,7 +38,7 @@ dependencies:
   share_plus: ^7.1.0 # https://pub.dev/packages/share_plus
   shared_preferences: ^2.2.2 # https://pub.dev/packages/shared_preferences
   url_launcher: ^6.1.14 # https://pub.dev/packages/url_launcher
-  video_player: ^2.8.1 # https://pub.dev/packages/video_player
+  video_player: ^2.8.2 # https://pub.dev/packages/video_player
 
 dev_dependencies:
   bloc_test: ^9.1.4
